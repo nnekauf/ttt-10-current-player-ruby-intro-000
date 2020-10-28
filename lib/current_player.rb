@@ -1,7 +1,6 @@
 
 
-number_of_total_spaces= 9
-spaces_occupied = 0
+
 
 def turn_count(board)
  turns = 0 
